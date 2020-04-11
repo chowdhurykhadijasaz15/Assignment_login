@@ -1,0 +1,122 @@
+*{
+	margin: 0;
+	padding:0;
+}
+header{
+	background-color: #3B5999;
+	height: 96px;
+}
+.wrapper{
+	width:90%;
+	margin: 0 auto;
+}
+.header{
+	overflow: hidden;
+}
+/*logo start*/
+.logo{ 
+	width:20%;
+	float: left;
+	margin-top: 15px; 
+}
+.logo img{
+	width:100%;
+}
+/*logo end*/
+/*form start*/
+.h_form{
+	width:50%;
+	float: right;
+	overflow: hidden;
+	margin-top: 15px;
+	position: relative;
+}
+.form1,.form2{
+	float: left;
+	width: 144px;;
+}
+.form1 label,.form2 label,.form2 p{
+	color:white;
+}
+.form1 label p{
+	color:#7B93C3;
+	display:inline-block;
+}
+.form2{
+	margin-left: 56px;
+}
+.form2 p{
+	color:#7B93C3;
+}
+.h_button button{
+	height: 20px;
+    width: 49px;
+    color: white;
+    margin-left: 51px;
+    margin-top: 20px;
+    background-color: #365899;
+    position: absolute;    
+}
+/*form end*/
+/*image and signup start*/
+.img_form{
+	background-color:#E9EBEE;	
+}   
+.service_image{
+	width: 100%;
+	overflow: hidden;
+}
+.connect{
+	width:45%;
+	float: left;
+}
+.connect h2, .signing h2{
+	margin-left: 20px;
+	padding:15px 15px 15px 0px;	
+}
+.connect img{
+	padding: 10px 10px 10px 0px;
+	width:100%;
+}
+.signing{
+	width:35%;
+	float: right;
+}
+.signing h4{
+	margin-left: 12px;
+	padding:0px 10px 10px 10px;
+}
+.sform{
+	margin-top: 15px;
+}
+input{
+	padding:3px;
+}
+.sform1,.sform2, .sform3{
+	margin-left: 23px;
+}
+.sform6{
+	    margin-left: 45px
+}
+.sform7{
+	    margin-left: 47px;
+}
+.sform p{
+	font-size:16px ;
+}
+.s_button{
+	    padding: 15px;
+}
+.s_button button{
+	width: 95px;
+    height: 34px;
+    font-size: 17px;
+    border-radius: 5px;
+    color: white;
+    background-color: #5D9149;
+}
+/*image and signup end*/
+
+
+
+
